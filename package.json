@@ -1,0 +1,26 @@
+{
+  "name": "newproject",
+  "version": "1.0.0",
+  "description": "hello world x2",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t1man00/newproject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/t1man00/newproject/issues"
+  },
+  "homepage": "https://github.com/t1man00/newproject#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2"
+  }
+}
